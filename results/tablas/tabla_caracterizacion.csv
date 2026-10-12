@@ -1,0 +1,5 @@
+clase,duracion_s,n_muestras,fs_Hz,rms_media,rms_std,zcr_media
+siren,4.0,88200,22050,0.2038,0.1009,0.1009
+engine_idling,4.0,88200,22050,0.3703,0.0248,0.0248
+gun_shot,2.61,57551,22050,0.0548,0.059,0.059
+children_playing,4.0,88200,22050,0.1461,0.1394,0.1394
