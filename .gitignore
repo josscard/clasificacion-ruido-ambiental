@@ -1,4 +1,3 @@
-*.wav
 *.mp3
 *.tar.gz
 *.zip
@@ -6,3 +5,6 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .env
+# ignorar wav excepto muestras
+*.wav
+!data/muestras/*.wav
